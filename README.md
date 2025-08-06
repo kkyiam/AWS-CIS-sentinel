@@ -13,4 +13,4 @@ policy "iam-password-expiry" {
 }
 ```
 
-Credited by <https://github.com/hashicorp/policy-library-CIS-Policy-Set-for-AWS-Terraform>
+Reference: <https://github.com/hashicorp/policy-library-CIS-Policy-Set-for-AWS-Terraform>
